@@ -1,0 +1,5 @@
+Array:
+join, indexOf, lastIndexOf, splice, shift, unshift, includes
+
+String:
+split, padStart, padEnd, substr, includes, startsWith, endsWith, indexOf, lastIndexOf, toUppercase, toLowercase, trim, trimLeft, trimRight, charAt, charCodeAt, substring, replace, replaceAll.

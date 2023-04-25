@@ -1,0 +1,38 @@
+a = 1
+console.log(a++ , ++a , ++a)
+"a" + 5 * 9
+a + "asd " + null + 1
+null + 7
+"as" + null
+null + "as"
+null + 1 + 2 + "as"
+"as" + 1 + 2 + "as"
+[1]
+null == ""
+null == " "
+null + 3 
+null * 5
+! + 4
+!null
+! + !3
+! - !4
+! +!2
+"as" == "as" + 5
+"as" + 5
+("as" == "as") + 5
+"as" == "as" + "as" * false
+"as" * false
+"as" + NaN
+"0" || false
+null || null
+!null || !null
+1 & null
+null & null
+!null & !null
++123
++ '13'
++ "34556"
++ "asd"
+123 == "123"
+null || true
+null && null
